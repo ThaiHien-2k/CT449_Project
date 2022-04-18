@@ -1,7 +1,7 @@
-### How to run
+### Setup this project
 
 	npm install
 	
-  then
+### Run this project
   
   	npm start
