@@ -1,14 +1,16 @@
 ## How to run
-  open 2 terminal
+  -Open 2 terminal
 
-## Project Setup
-
+## First terminal
 ```sh
+cd .\backend\
 npm install
+npm start
 ```
 
-### Compile and Hot-Reload for Development
-
+## Second terminal
 ```sh
+cd .\frontend\
+npm install
 npm run dev
 ```
