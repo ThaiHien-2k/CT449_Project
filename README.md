@@ -1,3 +1,6 @@
+## How to run
+  open 2 terminal
+
 ## Project Setup
 
 ```sh
