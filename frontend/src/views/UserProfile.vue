@@ -4,6 +4,9 @@
 			<h3>
 				Xin chào người dùng
 				<strong>{{ currentUser.username }}</strong>
+				<br>
+				<br>
+				<span style="font-style: italic;"> Đã đến với ứng dụng quản lý học tập</span> 
 			</h3>
 		</header>
 		<div class="row">
