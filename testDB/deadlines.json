@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "625d7b100cf09b05cb2010e5"
+  },
+  "day": "28",
+  "decripsion": "Báo cáo phát triển ứng dụng web",
+  "done": false,
+  "month": "4",
+  "name": "Báo cáo CT449",
+  "ownerId": {
+    "$oid": "625c20f338876d97fad27111"
+  },
+  "year": "2022"
+},{
+  "_id": {
+    "$oid": "625d7b810cf09b05cb201104"
+  },
+  "day": "9",
+  "decripsion": "kiểm tra giữa kì quản trị dữ liệu\nnội dung : chương 1,2,3",
+  "done": true,
+  "month": "4",
+  "name": "Kiểm tra giữa kì CT467",
+  "ownerId": {
+    "$oid": "625c20f338876d97fad27111"
+  },
+  "year": "2022"
+},{
+  "_id": {
+    "$oid": "625d7c360cf09b05cb20113b"
+  },
+  "day": "18",
+  "decripsion": "thi cuối kì lập trình căn bản",
+  "done": false,
+  "month": "4",
+  "name": "Thi cuối kì CT101",
+  "ownerId": {
+    "$oid": "625c20f338876d97fad27111"
+  },
+  "year": "2020"
+}]

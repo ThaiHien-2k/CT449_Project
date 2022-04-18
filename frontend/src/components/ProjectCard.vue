@@ -13,6 +13,7 @@ export default {
     copy() {
       try {
         navigator.clipboard.writeText(this.project.link);
+		alert('Bạn đã copy thành công link dự án '+ this.project.name);
       } catch (e) {
         throw e
       }
