@@ -5,7 +5,7 @@ import { useAuthStore } from "@/stores/auth.store";
 const redirectIfLoggedIn = (_to, _from) => {
 	if (useAuthStore().isUserLoggedIn) {
 		return {
-			name: "profile",
+			name: "project",
 		};
 	}
 };

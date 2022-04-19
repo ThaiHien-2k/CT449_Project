@@ -17,7 +17,7 @@ export default {
 			{{ deadline.decripsion }}
 		</div>
 		<div class="p-1">
-			<strong>Hạn chót:</strong>
+			<strong>Hạn cuối:</strong>
 			{{ deadline.day }}/{{ deadline.month }}/{{ deadline.year }}
 		</div>
 		<div class="p-1">

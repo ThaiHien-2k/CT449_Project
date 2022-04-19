@@ -23,7 +23,7 @@
 			<ErrorMessage name="decripsion" class="error-feedback" />
 		</div>
 		<div class="form-group">
-			<label for="deadline">Hạn chót:</label>
+			<label for="deadline">Hạn cuối:</label>
 			<Field
 				name="day"
 				type="number"

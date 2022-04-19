@@ -80,7 +80,7 @@ export default {
 				await this.login(user);
 
 				const redirectPath = this.$route.query.redirect || {
-					name: "profile",
+					name: "project",
 				};
 
 				this.$router.push(redirectPath);
