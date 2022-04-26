@@ -21,6 +21,12 @@
 					<i class="fa-solid fa-bars-progress"></i>
 				</router-link>
 			</li>
+				<li class="nav-item">
+				<router-link :to="{ name: 'weather' }" class="nav-link">
+					Thời tiết
+					<i class="fa-solid fa-cloud"></i>
+				</router-link>
+			</li>
 		</div>
 
 
